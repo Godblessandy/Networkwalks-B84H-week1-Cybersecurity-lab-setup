@@ -1,6 +1,17 @@
 # Networkwalks-B84H-week1-Cybersecurity-lab-setup
-This my Cybersecurity Lab set up for Penetration Testing &amp; Ethical Hacking
-I have completed my lab setup environment 
-Since I have already had a virtual box installed, i had to install kali linux and
-before installing the kali linux I configured the virtual machine to the required IP Address, set up the network to be Kali linux has full internet access and runs fine
-I took a snapshot of the VM
+I have setup a penetration testing lab using virtualBox and Kali Linux
+
+# Tools Used
+* VirtualBox
+* Kali Linux
+* Network MNanager
+
+# Steps Completed
+* Installed VirtualBox
+* Installed Kali Linux
+* Configured networking
+* Verified Internet access
+* Created VM snapshot
+
+# Outcome
+I have created a functional penetration testing lab environment successfully. 
